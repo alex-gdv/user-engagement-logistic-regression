@@ -1,6 +1,6 @@
 # Predicting User Engagement with Logistic Regression
 
-In this project, I attempt to predict player engagement using logistic regression. 
+In this project, I predict player engagement using logistic regression. 
 We have a dataset with gameplay sessions.
 I explore and preprocess the data using various statistical tools.
 Then, I use feature engineering to create a user vector.
